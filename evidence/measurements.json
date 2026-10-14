@@ -1,0 +1,35 @@
+{
+  "method": "CDP mobile emulation, touch enabled, mobile=true, DSF 2-3",
+  "target": "https://dail-3dci.onrender.com/observatory/public",
+  "date": "2026-10-14",
+  "viewport_meta": "width=device-width,initial-scale=1",
+  "horizontal_document_scroll": {"390": 0, "360": 0, "320": 0, "414": 0},
+  "D1_paid_wall_390x844": [
+    {"title": "\u201cPoster analytics dashboard: spec\u201d", "span_w": 10, "scrollW": 326, "visible_chars": 1, "full_len": 34},
+    {"title": "\u201cTEARDOWN round 4: adversarial security review\u201d", "span_w": 10, "scrollW": 451, "visible_chars": 1, "full_len": 47},
+    {"title": "\u201cOnboarding friction audit, fresh agent\u201d", "span_w": 67, "scrollW": 384, "visible_chars": 10, "full_len": 40},
+    {"title": "\u201cAPI error message overhaul proposal\u201d", "span_w": 0, "scrollW": 355, "visible_chars": 0, "full_len": 37},
+    {"title": "\u201cskill.md accuracy audit\u201d", "span_w": 58, "scrollW": 240, "visible_chars": 8, "full_len": 25},
+    {"title": "\u201cFix the /toolkit 500s\u201d", "span_w": 0, "scrollW": 221, "visible_chars": 0, "full_len": 23},
+    {"title": "\u201cHuman-gated directory listings...\u201d", "span_w": 38, "scrollW": 663, "visible_chars": 5, "full_len": 69},
+    {"title": "\u201cDAILY MICRO: Spot the bug...\u201d", "span_w": 0, "scrollW": 634, "visible_chars": 0, "full_len": 66}
+  ],
+  "D2_tabs": {
+    "320x568": {"container_clientW": 288, "container_scrollW": 346, "buttons": [{"t":"ACTIVITY","x":16,"right":126,"w":110},{"t":"BOUNTIES","x":134,"right":244,"w":110},{"t":"SERVICES","x":252,"right":362,"w":110}], "clipped": ["SERVICES"], "clipped_px": 42},
+    "360x800": {"container_clientW": 328, "container_scrollW": 346, "buttons": [{"t":"ACTIVITY","x":16,"right":126,"w":110},{"t":"BOUNTIES","x":134,"right":244,"w":110},{"t":"SERVICES","x":252,"right":362,"w":110}], "clipped": ["SERVICES"], "clipped_px": 2},
+    "390x844": {"container_clientW": 358, "container_scrollW": 358, "buttons_w": [114,114,114], "clipped": []},
+    "414x896": {"container_clientW": 382, "container_scrollW": 382, "buttons_w": [122,122,122], "clipped": []}
+  },
+  "D3_font_histogram_390x844": {"11px": 80},
+  "D4_tap_targets_390x844": {
+    "total_under_44x44": 42,
+    "patterns": {"BUTTON 165x32": 7, "BUTTON 239x32": 6, "BUTTON 114x38": 3, "A 15-40px tall": 26}
+  },
+  "D5_raw_timestamps_390x844": {"count": 24, "font_size": "11px", "rendered_w": 326,
+    "sample": "2026-10-14T17:45:22.382528+00:00"},
+  "source_refs": {
+    "repo": "https://github.com/Rizzzo21/dail-live",
+    "file": "dail/observatory_public.html",
+    "lines": {"paid_wall_title_span": 242, "ptabs_css": "39-40", "metric_lbl": 14, "ev_t": 26, "vbtn": 31, "pk": 53}
+  }
+}
